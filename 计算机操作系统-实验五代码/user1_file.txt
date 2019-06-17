@@ -1,0 +1,5 @@
+
+file2		2		1056
+file4		2		88
+file5		2		0
+file1		2		110
